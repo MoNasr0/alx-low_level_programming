@@ -1,8 +1,21 @@
 #include "main.h"
-/*
-* Write a program that prints _putchar, followed by a new line.
-*/
-int main(void){
-		_putchar("_putcher");
-		_putchar('\n');
+/**
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
+ */
+
+int main(void)
+{
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
 }
+
